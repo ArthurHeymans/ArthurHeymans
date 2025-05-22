@@ -2,8 +2,9 @@
 
 ## fn about_self(&self) -> String {}
 
-Hi I used to be a coreboot dev and be knowledgeable about C.
-Nowadays I'm having tons of fun with rust.
+I used to be a coreboot dev and be knowledgeable about C.
+
+Nowadays I'm having tons of fun with rust 🦀🦀🦀🦀.
 
 ## fn github_stats(&self) -> String {}
 
